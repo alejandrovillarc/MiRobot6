@@ -1,12 +1,15 @@
 package ar.edu.et7;
 
 import robocode.Robot;
-
+/**
+ * @author Jose Fuentes
+ * 
+ */
 
 //TODO Renombrar este archivo y el nombre de la clase, 
 //el nombre debe incluir el apellido del alumno
 
-public class MiRobot extends Robot {
+public class RobotVillar extends Robot {
 	
 	public void run() {
 		
